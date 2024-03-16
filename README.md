@@ -91,15 +91,15 @@ Having completed multiple AI/ML projects with a 98% success rate and optimizing 
 
  <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=omkarthube15&show_icons=true&card_width=50&line_height=37&theme=default&show_icons=true&line_height=40&hide=stars,contribs">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=omkarthube15&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs">
-      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omkarthube15&show_icons=true&card_width=50&line_height=37&theme=vue&      show_icons=true&line_height=40&hide=stars,contribs">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=atharvatodmal&show_icons=true&card_width=50&line_height=37&theme=default&show_icons=true&line_height=40&hide=stars,contribs">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=atharvatodmal&show_icons=true&card_width=50&line_height=37&theme=react&show_icons=true&line_height=40&hide=stars,contribs">
+      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=atharvatodmal&show_icons=true&card_width=50&line_height=37&theme=vue&      show_icons=true&line_height=40&hide=stars,contribs">
     </picture>
     <br/> <br/>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=omkarthube15&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=omkarthube15&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A"> 
-      <img alt="2" src="https://streak-stats.demolab.com/?user=omkarthube15&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=atharvatodmal&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=atharvatodmal&theme=dark&border_radius=6.7&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=20232A"> 
+      <img alt="2" src="https://streak-stats.demolab.com/?user=atharvatodmal&theme=default&border_radius=6.7&date_format=j%20M[%20Y]&ring=4F94EF&sideNums=4F94EF&currStreakLabel=4b88da">
   </picture>
   </div>
 
@@ -121,17 +121,14 @@ Having completed multiple AI/ML projects with a 98% success rate and optimizing 
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="150"/>
 </p>  
 <p align="center">
-  <a href="https://www.linkedin.com/in/omkarthube/">
+  <a href="https://www.linkedin.com/in/atharvatodmal/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/OMKARTHUBE15">
+  <a href="https://github.com/atharvatodmal">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-  </a> 
-  <a href="https://twitter.com/ON_Thube">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
   </a> 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarthube15&style=flat-square&color=blue" alt="My stats">
+  <img src="https://komarev.com/ghpvc/?username=atharvatodmal&style=flat-square&color=blue" alt="My stats">
 </p>
